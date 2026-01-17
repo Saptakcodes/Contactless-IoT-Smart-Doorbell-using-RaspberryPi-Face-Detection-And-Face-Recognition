@@ -104,16 +104,22 @@ If recognized as the owner, it does nothing
 
 ## 🖼️ Project Images and Working:-
 
-## 🖼️ Project Images
+## 🖼️ Set up
 
 ![Doorbell Pic 1](doorbell-pic-1.jpg)  
+
 ![Doorbell Pic 2](doorbell-pic-2.jpg)  
+
+## 🖼️ Architecture Diagram
 ![Doorbell Pic 3](doorbell-pic-3.jpg)  
+
 ![Doorbell Pic 4](doorbell-pic-4.png)  
 
-### Email Alert & Detection
+### Email Alert & Detection Using SMTP, Ultrasonic Sensor for detection and RapberryPi
 ![Doorbell Pic 5](doorbell-pic-5.jpg)  
+
 ![Doorbell Pic 6](doorbell-pic-6.jpg)  
+
 ![Doorbell Pic 7](doorbell-pic-7.jpg)  
 
 ### Face Detection
