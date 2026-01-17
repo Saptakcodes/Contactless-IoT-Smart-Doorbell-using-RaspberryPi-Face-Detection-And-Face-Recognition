@@ -124,10 +124,10 @@ If recognized as the owner, it does nothing
 
 ### Face Detection
 ![Doorbell Pic 8](doorbell-pic-8-fd.jpg)  
-![Doorbell Pic 9](doorbell-pic-9-fd.png)  
 
 ### Face Recognition
 ![Doorbell Pic 10](doorbell-pic-10-fr.png)  
+
 ![Doorbell Pic 11](doorbell-pic-11-fr.png)  
 
 
