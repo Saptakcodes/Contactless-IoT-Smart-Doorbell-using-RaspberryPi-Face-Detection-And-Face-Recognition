@@ -189,6 +189,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 🐍 Python Community – for libraries and open-source support
 
-🚀 Built with 💡 innovation and 🔒 security by Group 1
+🚀 Built with 💡 innovation and 🔒 security by Saptak Chaki
 
 ---
