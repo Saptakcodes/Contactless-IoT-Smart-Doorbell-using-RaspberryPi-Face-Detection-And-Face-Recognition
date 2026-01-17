@@ -102,6 +102,29 @@ If recognized as the owner, it does nothing
 
 ---
 
+## 🖼️ Project Images and Working:-
+
+## 🖼️ Project Images
+
+![Doorbell Pic 1](doorbell-pic-1.jpg)  
+![Doorbell Pic 2](doorbell-pic-2.jpg)  
+![Doorbell Pic 3](doorbell-pic-3.jpg)  
+![Doorbell Pic 4](doorbell-pic-4.png)  
+
+### Email Alert & Detection
+![Doorbell Pic 5](doorbell-pic-5.jpg)  
+![Doorbell Pic 6](doorbell-pic-6.jpg)  
+![Doorbell Pic 7](doorbell-pic-7.jpg)  
+
+### Face Detection
+![Doorbell Pic 8](doorbell-pic-8-fd.jpg)  
+![Doorbell Pic 9](doorbell-pic-9-fd.png)  
+
+### Face Recognition
+![Doorbell Pic 10](doorbell-pic-10-fr.png)  
+![Doorbell Pic 11](doorbell-pic-11-fr.png)  
+
+
 ## 🌟 Features:-
 
 🙌 Contactless visitor detection
